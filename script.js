@@ -1,3 +1,3 @@
       function changeText() {
-        document.getElementById('msg').textContent = '你刚刚触发了一段 JavaScript。';
+        document.getElementById('msg').textContent = '乐子果果 乐子桃子 乐子唧唧。';
       }
